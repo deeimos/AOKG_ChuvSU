@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\AOKG_ChuvSU\LR1\main.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\AOKG_ChuvSU\LR1\main.cpp(63,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+D:\AOKG_ChuvSU\LR1\main.cpp(72,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\AOKG_ChuvSU\LR1\main.cpp(72,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\AOKG_ChuvSU\LR1\main.cpp(72,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\AOKG_ChuvSU\LR1\main.cpp(79,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LR1.vcxproj -> D:\AOKG_ChuvSU\LR1\Debug\LR1.exe
